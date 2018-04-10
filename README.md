@@ -1,1 +1,19 @@
-# mautic-phpstorm-live-templates
+# Mautic live template  for PhpStorm
+
+I love PhpStorm https://www.jetbrains.com/phpstorm) and I love Mautic (https://bit.ly/2H7Effg)
+
+Live templates are so powerfull feature in PhpStrom. I am gonna extend live templates with some Mautic snippets. Pull requests are welcome.
+
+Live templates for Mautic:
+
+- mtc_config_subscriber
+
+## FAQ
+
+What are live templates?
+
+https://www.jetbrains.com/help/phpstorm/settings-live-templates.html
+
+How to import live templates?
+
+https://www.jetbrains.com/help/phpstorm/sharing-live-templates.html
