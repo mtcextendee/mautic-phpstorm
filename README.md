@@ -2,9 +2,13 @@
 
 I love PhpStorm (https://www.jetbrains.com/phpstorm) and I love Mautic (https://bit.ly/2H7Effg)
 
-Live templates are so powerfull feature in PhpStrom. I am gonna extend live templates with some Mautic snippets. Pull requests are welcome.
+Live templates are so powerfull feature in PhoStorm.
 
-Live templates for Mautic:
+This project gonna extend live templates with some Mautic snippets.
+
+Pull requests are welcome.
+
+## Live templates for Mautic:
 
 - mtc_config_subscriber
 
