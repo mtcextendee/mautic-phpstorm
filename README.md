@@ -1,0 +1,1 @@
+# mautic-phpstorm-live-templates
