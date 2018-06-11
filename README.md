@@ -20,12 +20,10 @@ Live templates are so powerfull feature in PhoStorm.
 - mtc_config (add full declaration to config.php)
 - mtc_construct (add construct to class)
 
-**FAQ to live templates for Mautic**
-
-What are live templates?
+**What are live templates?**
 
 https://www.jetbrains.com/help/phpstorm/settings-live-templates.html
 
-How to import live templates?
+**How to import live templates?**
 
 https://www.jetbrains.com/help/phpstorm/sharing-live-templates.html
