@@ -21,3 +21,8 @@ https://www.jetbrains.com/help/phpstorm/settings-live-templates.html
 How to import live templates?
 
 https://www.jetbrains.com/help/phpstorm/sharing-live-templates.html
+
+## Tipy for Mautic PHP Storm
+
+- http://phpstorm.tips (Learn through GIFs)
+- https://github.com/TheDMSGroup/mautic-phpstorm (Code Styles for Mautic + PHP-CS + PHPStorm)
