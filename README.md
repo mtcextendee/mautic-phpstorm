@@ -4,7 +4,7 @@ I love PhpStorm (https://www.jetbrains.com/phpstorm) and I contribute to Mautic 
 
 This project gonna bring usefull tips and productivity tips. Pull requests are welcome.
 
-## Powerfull tips for Mautic PHP Storm
+## Powerfull tips for Mautic and PHPStorm
 
 - http://phpstorm.tips (Learn through GIFs)
 - https://github.com/TheDMSGroup/mautic-phpstorm (Code Styles for Mautic + PHP-CS + PHPStorm)
@@ -20,7 +20,7 @@ Live templates are so powerfull feature in PhoStorm.
 - mtc_config (add full declaration to config.php)
 - mtc_construct (add construct to class)
 
-### FAQ to live templates for Mautic
+**FAQ to live templates for Mautic**
 
 What are live templates?
 
