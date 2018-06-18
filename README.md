@@ -4,7 +4,10 @@ I love PhpStorm (https://www.jetbrains.com/phpstorm) and I contribute to Mautic 
 
 This project gonna bring usefull productivity tips. Pull requests are welcome.
 
-Support my another Mautic stuff https://mtcextendee.com/
+#### Support our projects
+
+- Extensions family for Mautic https://mtcextendee.com/
+- Recommendations engine for Mautic https://mtcrecombee.com/
 
 ## Powerfull tips for Mautic and PHPStorm
 
